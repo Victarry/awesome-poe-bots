@@ -7,7 +7,9 @@
 
 | Code Explainer | https://poe.com/ExplainCodes | This chatbot is designed to explain code precisely.
 
-| Linux Ternimal | https://poe.com/ChatTerminal | This chatbot is acted as a linux terminal 
+| Linux Ternimal | https://poe.com/ChatTerminal | This chatbot is acted as a linux terminal.
+
+| Resume Improver | https://poe.com/ResumeImprover | This chatbot is acted as a resume reviewer.
 
 |English Polishing Chatbot |https://poe.com/PaperPolisher |This chatbot
 is designed to help researchers to polish their papers. It can correct grammar and spelling mistakes, suggest
