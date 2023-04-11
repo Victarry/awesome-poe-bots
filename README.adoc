@@ -3,6 +3,12 @@
 [width="100%",cols="34%,33%,33%",options="header",]
 |===
 |Chatbot |Link |Description
+| Prompt Generator | https://poe.com/GeneratePrompt | This chatbot is desinged to generate precise prompts for chatgpt based on your purpose. 
+
+| Code Explainer | https://poe.com/ExplainCodes | This chatbot is designed to explain code precisely.
+
+| Linux Ternimal | https://poe.com/ChatTerminal | This chatbot is acted as a linux terminal 
+
 |English Polishing Chatbot |https://poe.com/PaperPolisher |This chatbot
 is designed to help researchers to polish their papers. It can correct grammar and spelling mistakes, suggest
 alternative phrases.
