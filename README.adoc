@@ -1,31 +1,28 @@
 == awesome-poe-bots
 
-[width="100%",cols="34%,33%,33%",options="header",]
+[width="100%",cols="34%,33%,33%",options="header"]
 |===
-|Chatbot |Link |Description
-| Prompt Generator | https://poe.com/GeneratePrompt | This chatbot is desinged to generate precise prompts for chatgpt based on your purpose. 
+| Chatbot | Link | Description
+
+| Prompt Generator | https://poe.com/GeneratePrompt | This chatbot is designed to generate precise prompts for chatgpt based on your purpose.
 
 | Code Explainer | https://poe.com/ExplainCodes | This chatbot is designed to explain code precisely.
 
-| Linux Ternimal | https://poe.com/ChatTerminal | This chatbot is acted as a linux terminal.
+| Linux Terminal | https://poe.com/ChatTerminal | This chatbot acts as a Linux terminal.
 
-| Resume Improver | https://poe.com/ResumeImprover | This chatbot is acted as a resume reviewer.
+| Resume Improver | https://poe.com/ResumeImprover | This chatbot acts as a resume reviewer.
 
-|English Polishing Chatbot |https://poe.com/PaperPolisher |This chatbot
-is designed to help researchers to polish their papers. It can correct grammar and spelling mistakes, suggest
-alternative phrases.
+| Story Teller | https://poe.com/StoryChatbot | This chatbot acts as a storyteller.
 
-|English Translator | https://poe.com/EnTranslation | This chatbot will tranlate any language to English.
+| English Polishing Chatbot | https://poe.com/PaperPolisher | This chatbot is designed to help researchers polish their papers. It can correct grammar and spelling mistakes, and suggest alternative phrases.
 
-|Mental Health Chatbot |https://poe.com/MentalHealthBot |This chatbot
-provides emotional support to users who are struggling with mental
-health issues. It can engage in conversations about anxiety, depression,
-and other mental health concerns, and provide resources for seeking
-professional help.
+| English Translator | https://poe.com/EnTranslation | This chatbot will translate any language to English.
+
+| Mental Health Chatbot | https://poe.com/MentalHealthBot | This chatbot provides emotional support to users who are struggling with mental health issues. It can engage in conversations about anxiety, depression, and other mental health concerns, and provide resources for seeking professional help.
 |===
 
 ## Contribution
-Welcome for issuses or pull requests to this repo. Thanks for your contribution.
+Welcome for issues or pull requests to this repo. Thanks for your contribution.
 
 ## Acknowledgement
 - https://github.com/f/awesome-chatgpt-prompts[awesome-chatgpt-prompts]
